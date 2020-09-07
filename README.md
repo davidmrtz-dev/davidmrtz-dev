@@ -1,4 +1,4 @@
-![me](./assets/me.png)
+![me](/assets/me.png)
 
 ## Hey 👋, I'm Albert Abdilim
 
