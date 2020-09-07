@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/me.png" alt="Logo">
+  <img src="https://github.com/davitomix/davitomix/blob/master/assets/me.png" alt="Logo">
 </p>
 
 ## Hey 👋, I'm Albert Abdilim
