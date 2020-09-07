@@ -1,4 +1,4 @@
-![me](https://github.com/davitomix/davitomix/master/assets/me.png)
+![me](./assets/me.png)
 
 ## Hey 👋, I'm Albert Abdilim
 
