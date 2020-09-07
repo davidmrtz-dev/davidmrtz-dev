@@ -1,4 +1,4 @@
-![me](https://github.com/L1cardo/L1cardo/raw/master/assets/me.gif)
+![me](https://github.com/davitomix/davitomix/master/assets/me.png)
 
 ## Hey 👋, I'm Albert Abdilim
 
@@ -10,7 +10,7 @@ I love programming and I love Swift.
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a medical student at my 4th year; 
+- 👨🏽‍💻 I’m currently a medical student at my 4th year;
 - 🤔 My interests are with iOS and macOS programming, AI in medical, Python etc..;
 - 💼 I’m pursuing a Bachelor's degree in Medical Imaging;
 - 💬 Ask me about anything, I am happy to help;
@@ -30,7 +30,7 @@ I love programming and I love Swift.
 ### Contact me:
 
 - Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
-- Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim) 
+- Twitter: [![Twitter](https://img.shields.io/badge/@AlbertAbdilim-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AlbertAbdilim)
 - Weibo: [![Weibo](https://img.shields.io/badge/@Albert__Abdilim-E6162D?style=flat-square&logo=sina-weibo&logoColor=white)](https://weibo.com/1935602951)
 - Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
 
