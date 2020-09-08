@@ -12,7 +12,7 @@ I'm a life-long learner who aspires to master his skills.
 
 ### About:
 
-- :rocket: My current stack includes Ruby on Rails, React, Redux, ES6, Node.js, PostgreSQL, MySQL, Git, GithubFlow, DS, and Algorithms. :gem:
+- :rocket: My current stack includes Ruby on Rails, React, Redux, Javascript, Node.js, PostgreSQL, MySQL, Git, GithubFlow, DS, and Algorithms. :gem:
 - 💼 Seeking for new job opportunities.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
