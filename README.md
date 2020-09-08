@@ -70,7 +70,7 @@ I'm a life-long learner who aspires to master his skills.
 [<img src="https://img.shields.io/badge/%20%20-angelist-8c7bad?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://angel.co/u/david-martinez-74)
 [<img src="https://img.shields.io/badge/%20%20-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />](https://twitter.com/davitomix007)
 
-### GitHub Stats
+### GitHub Stats:
 
 <p align="center">
   <a href="https://github.com/davitomix/github-readme-stats">
