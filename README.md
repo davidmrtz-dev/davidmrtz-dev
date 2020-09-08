@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/davitomix/davitomix/blob/master/assets/me.png" alt="Logo">
+  <img src="https://github.com/davitomix/davitomix/blob/master/assets/me.png" alt="Logo" width="700px" height="500px">
 </p>
 
 ## Hey 👋
@@ -23,4 +23,6 @@ I'm a life-long learner who aspires to master his skills.
 
 ### GitHub Stats
 
-![davitomix's github stats](https://github-readme-stats.vercel.app/api?username=davitomix&show_icons=true&theme=radical)
+<p align="center">
+  ![davitomix's github stats](https://github-readme-stats.vercel.app/api?username=davitomix&show_icons=true&theme=radical)
+</p>
