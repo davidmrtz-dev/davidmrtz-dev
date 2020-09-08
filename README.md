@@ -21,9 +21,6 @@ I'm a life-long learner who aspires to master his skills.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/davideligarcia/) [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://davitomix.github.io/personal_portfolio/)
 
-- Personal website: [![website](https://img.shields.io/badge/https://licardo.cn-3693F3?style=flat-square&logo=icloud&logoColor=white)](https://licardo.cn)
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.abdilim@foxmail.com)
-
 ### GitHub Stats
 
 ![davitomix's github stats](https://github-readme-stats.vercel.app/api?username=davitomix&show_icons=true&theme=radical)
