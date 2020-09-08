@@ -56,10 +56,11 @@ I'm a life-long learner who aspires to master his skills.
 [<img src="https://img.shields.io/badge/%20%20-Redux-purple?style=for-the-badge&logo=redux&logoColor=white&logoWidth=30" />](https://redux.js.org)
 [<img src="https://img.shields.io/badge/%20%20-rails-brown?style=for-the-badge&logo=ruby-on-rails&logoColor=white&logoWidth=30" />](https://rubyonrails.org)
 <br />
-[<img src="https://img.shields.io/badge/%20%20-sass-green?style=for-the-badge&logo=sass&logoColor=white&logoWidth=30" />](https://sass-lang.com)
+[<img src="https://img.shields.io/badge/%20%20-sass-purple?style=for-the-badge&logo=sass&logoColor=white&logoWidth=30" />](https://sass-lang.com)
 [<img src="https://img.shields.io/badge/%20%20-sql%20|%20postgres-informational?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=30" />](https://sass-lang.com)
 [<img src="https://img.shields.io/badge/%20%20-npm-brown?style=for-the-badge&logo=npm&logoColor=white&logoWidth=30" />](https://sass-lang.com)
 [<img src="https://img.shields.io/badge/%20%20-postman%20|%20newman-403939?style=for-the-badge&logo=postman&logoColor=white&logoWidth=30" />](https://sass-lang.com)
+[<img src="https://img.shields.io/badge/%20%20-arduino-yellow?style=for-the-badge&logo=arduino&logoColor=white&logoWidth=30" />](https://sass-lang.com)
 
 ### Get in touch:
 
