@@ -72,11 +72,9 @@ I'm a life-long learner who aspires to master his skills.
 
 ### GitHub Stats
 
-![davitomix's github stats](https://github-readme-stats.vercel.app/api?username=davitomix&show_icons=true&theme=radical)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davitomix&repo=github-readme-stats" />
+<a href="https://github.com/davitomix/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davitomix&show_icons=true&theme=radical" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davitomix&repo=convoychat" />
+<a href="https://github.com/davitomix/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitomix&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
