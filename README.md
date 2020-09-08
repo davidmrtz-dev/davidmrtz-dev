@@ -3,7 +3,7 @@
 </p>
 
 ```ruby
-class DavidGarcia < FullStackDeveloper
+class DavidGarcia < GeekStuff
   def initialize
     @name = 'David Elí García'
     @location = 'CDMX, México'
@@ -31,7 +31,7 @@ coder = DavidGarcia.new
 
 ## Hi there. :octocat:
 
-I'm **David García**, a **Full Stack Developer**.
+I'm **David García**.
 
 I am a university technologist in mechatronics, a technology enthusiast, especially interested in web development, robotics, and IoT applications.
 <br />
