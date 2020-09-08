@@ -51,6 +51,7 @@ I'm a life-long learner who aspires to master his skills.
 
 [<img src="https://img.shields.io/badge/%20%20-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoWidth=30" />](https://js.org)
 [<img src="https://img.shields.io/badge/%20%20-Ruby-brown?style=for-the-badge&logo=ruby&logoColor=white&logoWidth=30" />](https://rubygems.org)
+[<img src="https://img.shields.io/badge/%20%20-webpack-403939?style=for-the-badge&logo=webpack&logoColor=white&logoWidth=30" />](https://reactjs.org)
 [<img src="https://img.shields.io/badge/%20%20-React-blue?style=for-the-badge&logo=react&logoColor=white&logoWidth=30" />](https://reactjs.org)
 [<img src="https://img.shields.io/badge/%20%20-Redux-purple?style=for-the-badge&logo=redux&logoColor=white&logoWidth=30" />](https://redux.js.org)
 [<img src="https://img.shields.io/badge/%20%20-rails-brown?style=for-the-badge&logo=ruby-on-rails&logoColor=white&logoWidth=30" />](https://rubyonrails.org)
