@@ -23,6 +23,4 @@ I'm a life-long learner who aspires to master his skills.
 
 ### GitHub Stats
 
-<p align="center">
-  ![davitomix's github stats](https://github-readme-stats.vercel.app/api?username=davitomix&show_icons=true&theme=radical)
-</p>
+![davitomix's github stats](https://github-readme-stats.vercel.app/api?username=davitomix&show_icons=true&theme=radical)
