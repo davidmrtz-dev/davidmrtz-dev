@@ -5,9 +5,9 @@
 ```ruby
 class DavidGarcia < FullStackDeveloper
   def initialize
-    @name = 'David García'
-    @location = 'Mexico'
-    @username = 'davitomix'
+    @name = 'David Elí García'
+    @location = 'CDMX, México'
+    @username = '@davitomix'
   end
 
   def code
@@ -29,7 +29,7 @@ coder = DavidGarcia.new
 
 ```
 
-## Hi there. 👋:octocat:
+## Hi there. :octocat:
 
 I'm **David García**, a **Full Stack Developer**.
 
@@ -39,7 +39,7 @@ I'm a life-long learner who aspires to master his skills.
 
 ### About:
 
-- :rocket: Passionate about Robotics & Tech!.
+- :rocket: Passionate about Robotics & Tech!
 - :books: Full time learner
 - :space_invader: Video games lover.
 - :coffee: A bit coffe addict.
