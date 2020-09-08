@@ -66,7 +66,7 @@ I'm a life-long learner who aspires to master his skills.
 [<img src="https://img.shields.io/badge/%20%20-email-red?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />](https://sass-lang.com)
 [<img src="https://img.shields.io/badge/%20%20-portfolio-7bada7?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://sass-lang.com)
 [<img src="https://img.shields.io/badge/%20%20-angelist-8c7bad?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://sass-lang.com)
-[<img src="https://img.shields.io/badge/%20%20-twitter-9cf?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />](https://sass-lang.com)
+[<img src="https://img.shields.io/badge/%20%20-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />](https://sass-lang.com)
 
 ### GitHub Stats
 
