@@ -17,6 +17,10 @@ I'm a life-long learner who aspires to master his skills.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
+### Stack:
+
+[<img src="https://img.shields.io/badge/%20%20-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />](https://js.org)
+
 ### Contact me:
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/davideligarcia/) [<img src ="https://img.shields.io/badge/Website-pk-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://davitomix.github.io/personal_portfolio/)
