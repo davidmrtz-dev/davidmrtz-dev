@@ -20,10 +20,10 @@ I'm a life-long learner who aspires to master his skills.
 ### Stack:
 
 [<img src="https://img.shields.io/badge/%20%20-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&logoWidth=30" />](https://js.org)
-[<img src="https://img.shields.io/badge/%20%20-Ruby-red?style=for-the-badge&logo=ruby&logoColor=white&logoWidth=30" />](https://rubygems.org)
+[<img src="https://img.shields.io/badge/%20%20-Ruby-critical?style=for-the-badge&logo=ruby&logoColor=white&logoWidth=30" />](https://rubygems.org)
 [<img src="https://img.shields.io/badge/%20%20-React-blue?style=for-the-badge&logo=react&logoColor=white&logoWidth=30" />](https://reactjs.org)
 [<img src="https://img.shields.io/badge/%20%20-Redux-purple?style=for-the-badge&logo=redux&logoColor=white&logoWidth=30" />](https://redux.js.org)
-[<img src="https://img.shields.io/badge/%20%20-rails-red?style=for-the-badge&logo=ruby-on-rails&logoColor=white&logoWidth=30" />](https://rubyonrails.org)
+[<img src="https://img.shields.io/badge/%20%20-rails-critical?style=for-the-badge&logo=ruby-on-rails&logoColor=white&logoWidth=30" />](https://rubyonrails.org)
 
 ### Contact me:
 
