@@ -34,7 +34,9 @@ coder = DavidGarcia.new
 I'm **David García**, a **Full Stack Developer**.
 
 I am a university technologist in mechatronics, a technology enthusiast, especially interested in web development, robotics, and IoT applications.
+<br />
 I find a special pleasure in learning and researching emerging technologies and how to help develop applications that make people's lives easier.
+<br />
 I'm a life-long learner who aspires to master his skills.
 
 ### About:
@@ -52,6 +54,7 @@ I'm a life-long learner who aspires to master his skills.
 [<img src="https://img.shields.io/badge/%20%20-React-blue?style=for-the-badge&logo=react&logoColor=white&logoWidth=30" />](https://reactjs.org)
 [<img src="https://img.shields.io/badge/%20%20-Redux-purple?style=for-the-badge&logo=redux&logoColor=white&logoWidth=30" />](https://redux.js.org)
 [<img src="https://img.shields.io/badge/%20%20-rails-brown?style=for-the-badge&logo=ruby-on-rails&logoColor=white&logoWidth=30" />](https://rubyonrails.org)
+<br />
 [<img src="https://img.shields.io/badge/%20%20-sass-green?style=for-the-badge&logo=sass&logoColor=white&logoWidth=30" />](https://sass-lang.com)
 [<img src="https://img.shields.io/badge/%20%20-sql%20|%20postgres-informational?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=30" />](https://sass-lang.com)
 [<img src="https://img.shields.io/badge/%20%20-npm-brown?style=for-the-badge&logo=npm&logoColor=white&logoWidth=30" />](https://sass-lang.com)
