@@ -12,8 +12,8 @@ class DavidGarcia < GeekStuff
 
   def code
     @code = {
-      'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Redux', 'Boostrap', 'Sass', 'Material UI', 'Materialize'],
-      'backend': ['Ruby', 'Rails', 'NodeJS', 'Express'],
+      'frontend': ['React', 'Redux','JavaScript', 'Sass', 'Css', 'Material UI', 'Materialize', 'Boostrap'],
+      'backend': ['Rails', 'Ruby','NodeJS', 'Express'],
       'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
       'devops': ['Docker', 'GitHub Actions', 'GitHub Flow', 'AWS', 'Heroku', 'Netlify'],
       'tools': ['Git', 'GitHub', 'GitLab', 'Postman - Newman', 'bash'],
