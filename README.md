@@ -75,6 +75,6 @@ I'm a life-long learner who aspires to master his skills.
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=davitomix&show_icons=true&theme=dracula" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davitomix&repo=convoychat" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
   </a>
 </p>
