@@ -74,7 +74,8 @@ I'm a life-long learner who aspires to master his skills.
   <a href="https://github.com/davitomix/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=davitomix&show_icons=true&theme=dracula" />
   </a>
+  <br />
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=davitomix&repo=github-readme-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
   </a>
 </p>
