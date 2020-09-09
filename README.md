@@ -16,7 +16,7 @@ class DavidGarcia < GeekStuff
       'backend': ['Ruby', 'Rails', 'NodeJS', 'Express'],
       'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
       'devops': ['Docker', 'GitHub Actions', 'GitHub Flow', 'AWS', 'Heroku', 'Netlify'],
-      'tools': ['Git', 'GitHub', 'GitLab', 'Postman - Newman', 'bash],
+      'tools': ['Git', 'GitHub', 'GitLab', 'Postman - Newman', 'bash'],
       'misc': ['TDD', 'SCRUM', 'GNU/Linux', 'Extremme Programming', 'Agile']
     }
     @architectures = {
