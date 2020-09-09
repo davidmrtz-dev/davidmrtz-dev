@@ -75,5 +75,6 @@ I'm a life-long learner who aspires to master his skills.
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=davitomix&show_icons=true&theme=dracula" />
   </a>
   <br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davitomix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davitomix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
