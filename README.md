@@ -76,5 +76,3 @@ I'm a life-long learner who aspires to master his skills.
   </a>
   <br />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davitomix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
