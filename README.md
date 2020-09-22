@@ -71,7 +71,7 @@ I'm a life-long learner who aspires to master his skills.
 [<img src="https://img.shields.io/badge/%20%20-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />](https://twitter.com/davitomix007)
 
 <p align="center">
-  <a href="https://github.com/davomartinez-dev/github-readme-stats">
+  <a href="https://github.com/davomartinez-dev/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=davomartinez-dev&show_icons=true&theme=dracula" />
   </a>
   <br />
