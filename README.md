@@ -3,7 +3,7 @@
 </p>
 
 ```ruby
-class DavidGarcia < FullStackDeveloper
+class DavidGarcia < GeekStuff
   def initialize
     @name = 'David Elí García'
     @location = 'CDMX, México'
@@ -12,11 +12,11 @@ class DavidGarcia < FullStackDeveloper
 
   def code
     @code = {
-      'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Redux', 'Boostrap', 'Sass', 'Material UI', 'Materialize'],
-      'backend': ['Ruby', 'Rails', 'NodeJS', 'Express'],
+      'frontend': ['React', 'Redux','JavaScript', 'Sass', 'Css', 'Material UI', 'Materialize', 'Boostrap'],
+      'backend': ['Rails', 'Ruby','NodeJS', 'Express'],
       'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
       'devops': ['Docker', 'GitHub Actions', 'GitHub Flow', 'AWS', 'Heroku', 'Netlify'],
-      'tools': ['Git', 'GitHub', 'GitLab', 'Postman - Newman', 'bash],
+      'tools': ['Git', 'GitHub', 'GitLab', 'Postman - Newman', 'bash'],
       'misc': ['TDD', 'SCRUM', 'GNU/Linux', 'Extremme Programming', 'Agile']
     }
     @architectures = {
@@ -31,7 +31,7 @@ coder = DavidGarcia.new
 
 ## Hi there. :octocat:
 
-I'm **David García**, a **Full Stack Developer**.
+I'm **David García**.
 
 I am a university technologist in mechatronics, a technology enthusiast, especially interested in web development, robotics, and IoT applications.
 <br />
@@ -66,14 +66,13 @@ I'm a life-long learner who aspires to master his skills.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/davideligarcia/)
 [<img src="https://img.shields.io/badge/%20%20-email-red?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />](mailto:davidelimg1@gmail.com)
-[<img src="https://img.shields.io/badge/%20%20-portfolio-7bada7?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://davitomix.github.io/personal_portfolio/)
+[<img src="https://img.shields.io/badge/%20%20-portfolio-7bada7?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://davogarcia.com/)
 [<img src="https://img.shields.io/badge/%20%20-angelist-8c7bad?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://angel.co/u/david-martinez-74)
 [<img src="https://img.shields.io/badge/%20%20-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />](https://twitter.com/davitomix007)
-
-### GitHub Stats:
 
 <p align="center">
   <a href="https://github.com/davitomix/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=davitomix&show_icons=true&theme=dracula" />
   </a>
+  <br />
 </p>
