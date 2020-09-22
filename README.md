@@ -3,9 +3,9 @@
 </p>
 
 ```ruby
-class DavidGarcia < GeekStuff
+class DavidMartinez < GeekStuff
   def initialize
-    @name = 'David Elí García'
+    @name = 'David Martinez'
     @location = 'CDMX, México'
     @username = '@davitomix'
   end
@@ -25,13 +25,13 @@ class DavidGarcia < GeekStuff
   end
 end
 
-coder = DavidGarcia.new
+coder = DavidMartinez.new
 
 ```
 
 ## Hi there. :octocat:
 
-I'm **David García**.
+I'm **David Martínez**.
 
 I am a university technologist in mechatronics, a technology enthusiast, especially interested in web development, robotics, and IoT applications.
 <br />
