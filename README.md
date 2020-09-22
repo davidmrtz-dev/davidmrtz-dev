@@ -7,7 +7,7 @@ class DavidMartinez < GeekStuff
   def initialize
     @name = 'David Martinez'
     @location = 'CDMX, México'
-    @username = '@davitomix'
+    @username = '@davomartinez-dev'
   end
 
   def code
