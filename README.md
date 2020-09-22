@@ -64,11 +64,11 @@ I'm a life-long learner who aspires to master his skills.
 
 ### Get in touch:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/davideligarcia/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/davidelimartinez/)
 [<img src="https://img.shields.io/badge/%20%20-email-red?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />](mailto:davidelimg1@gmail.com)
 [<img src="https://img.shields.io/badge/%20%20-portfolio-7bada7?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://davogarcia.com/)
 [<img src="https://img.shields.io/badge/%20%20-angelist-8c7bad?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://angel.co/u/david-martinez-74)
-[<img src="https://img.shields.io/badge/%20%20-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />](https://twitter.com/davitomix007)
+[<img src="https://img.shields.io/badge/%20%20-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />](https://twitter.com/davomartinezdev)
 
 <p align="center">
   <a href="https://github.com/davomartinez-dev/">
