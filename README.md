@@ -22,7 +22,7 @@ class DavidMartinez < GeekStuff
     @architectures = {
       ['SPA', 'MVC', 'Serverless', 'Microservices']
     }
-  end d
+  end
 end
 
 coder = DavidMartinez.new
