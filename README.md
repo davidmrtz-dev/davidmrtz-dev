@@ -29,7 +29,7 @@ coder = DavidMartinez.new
 
 ```
 
-## Hi there. :octocat:x
+## Hi there. :octocat:
 
 I'm **David Martínez**.
 
