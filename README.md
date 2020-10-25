@@ -45,6 +45,7 @@ I'm a life-long learner who aspires to master his skills.
 - :books: Full time learner
 - :space_invader: Video games lover.
 - :coffee: A bit coffe addict.
+- :coffee: I write blogs on [Hackernoon](https://hackernoon.com/u/davomartinez-dev).
 - 💼 Seeking for new job opportunities.
 
 ### Technologies:
