@@ -41,11 +41,11 @@ I'm a life-long learner who aspires to master his skills.
 
 ### About:
 
-- :rocket: Passionate about Robotics & Tech!
+- :rocket: Passionate about Robotics & Tech! :man_technologist:
 - :books: Full time learner
 - :space_invader: Video games lover.
 - :coffee: A bit coffe addict.
-- :coffee: I write blogs on [Hackernoon](https://hackernoon.com/u/davomartinez-dev).
+- :writing_hand: I write blogs on [@Hackernoon](https://hackernoon.com/u/davomartinez-dev).
 - 💼 Seeking for new job opportunities.
 
 ### Technologies:
