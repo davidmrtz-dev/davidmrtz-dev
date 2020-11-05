@@ -9,7 +9,7 @@ class DavidMartinez < GeekStuff
     @location = 'CDMX, México'
     @username = '@davomartinez-dev'
   end
-xx
+
   def code
     @code = {
       'frontend': ['React', 'Redux','JavaScript', 'Sass', 'Css', 'Material UI', 'Materialize', 'Boostrap'],
