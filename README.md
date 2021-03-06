@@ -46,7 +46,7 @@ I'm a life-long learner who aspires to master his skills.
 - :space_invader: Video games lover.
 - :coffee: A bit coffe addict.
 - :writing_hand: I write blogs on [@Hackernoon](https://hackernoon.com/u/davomartinez-dev).
-- 💼 Seeking for new job opportunities.
+- 💼 Curently working at Asymm Developers as Full Stack Developer.
 
 ### Technologies:
 
