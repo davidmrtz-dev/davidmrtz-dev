@@ -35,7 +35,7 @@ class DavidMartinez < GeekStuff
   end
 end
 
-coder = DavidMartinez.process
+coder = DavidMartinez.code
 
 ```
 
