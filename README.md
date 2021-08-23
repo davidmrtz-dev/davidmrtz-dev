@@ -23,13 +23,13 @@ class DavidMartinez < GeekStuff
     }
   end
 
-  def process
-    code
+  def code
+    process
   end
   
   private
   
-  def code
+  def process
     coder = Coder.create!(name: name, location: location)
     coder.code
   end
