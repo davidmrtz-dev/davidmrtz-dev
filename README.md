@@ -31,7 +31,7 @@ class DavidMartinez < GeekStuff
   
   def code
     coder = Coder.create!(name: name, location: location)
-    coder && coder.code
+    coder.code
   end
 end
 
