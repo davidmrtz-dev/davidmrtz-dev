@@ -4,13 +4,12 @@
 
 ```ruby
 class DavidMartinez < GeekStuff
+  attr_reader i%[name location]
+
   def initialize
     @name = 'David Martinez'
     @location = 'CDMX, México'
     @username = '@davomartinez-dev'
-  end
-
-  def code
     @code = {
       'frontend': ['React', 'Redux','JavaScript', 'Sass', 'Css', 'Material UI', 'Materialize', 'Boostrap'],
       'backend': ['Rails', 'Ruby','NodeJS', 'Express'],
@@ -23,9 +22,20 @@ class DavidMartinez < GeekStuff
       ['SPA', 'MVC', 'Serverless', 'Microservices']
     }
   end
+
+  def process
+    code
+  end
+  
+  private
+  
+  def code
+    coder = Coder.create!(name: name, location: location)
+    coder && coder.code
+  end
 end
 
-coder = DavidMartinez.new
+coder = DavidMartinez.process
 
 ```
 
