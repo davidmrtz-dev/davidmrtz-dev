@@ -8,7 +8,7 @@ class DavidMartinez < GeekStuff
 
   def initialize
     @name = 'David Martinez'
-    @location = 'CDMX, México'
+    @location = 'CDM, México'
     @username = '@davomartinez-dev'
     @code = {
       'frontend': ['React', 'Redux','JavaScript', 'Sass', 'Css', 'Material UI', 'Materialize', 'Boostrap'],
