@@ -3,7 +3,7 @@
 </p>
 
 ```ruby
-class DavidMartinez < GeekStuff
+class DavidMatinez < GeekStuff
   attr_reader i%[name location]
 
   def initialize
