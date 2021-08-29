@@ -35,7 +35,7 @@ class DavidMartinez < GeekStuff
   end
 end
 
-coder = DavidMartinez.code
+coder = DavidMartinez.new.code
 
 ```
 
