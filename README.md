@@ -9,7 +9,7 @@ class DavidMartinez < GeekStuff
   def initialize
     @name = 'David Martinez'
     @location = 'CDMX, México'
-    @username = '@davomartinez-dev'
+    @username = '@davidmrtz-dev'
     @code = {
       'frontend': ['React', 'Redux','JavaScript', 'Sass', 'Css', 'Material UI', 'Materialize', 'Boostrap'],
       'backend': ['Rails', 'Ruby','NodeJS', 'Express'],
@@ -75,15 +75,15 @@ I'm a life-long learner who aspires to master his skills.
 
 ### Get in touch:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/davidelimartinez/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/davidmrtz-dev/)
 [<img src="https://img.shields.io/badge/%20%20-email-red?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />](mailto:davidelimg1@gmail.com)
 [<img src="https://img.shields.io/badge/%20%20-portfolio-7bada7?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://davogarcia.com/)
 [<img src="https://img.shields.io/badge/%20%20-angelist-8c7bad?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://angel.co/u/david-martinez-74)
 [<img src="https://img.shields.io/badge/%20%20-twitter-blue?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30" />](https://twitter.com/davomartinezdev)
 
 <p align="center">
-  <a href="https://github.com/davomartinez-dev/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davomartinez-dev&show_icons=true&theme=dracula" />
+  <a href="https://github.com/davidmartz_dev/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davidmrtz-dev&show_icons=true&theme=dracula" />
   </a>
   <br />
 </p>
