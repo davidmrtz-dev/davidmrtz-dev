@@ -28,7 +28,6 @@ end
 
 coder = FullStackEngineer.new
 amazing_application = coder.create
-
 ```
 
 ## Hi there. :octocat:
