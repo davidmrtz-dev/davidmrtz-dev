@@ -3,39 +3,31 @@
 </p>
 
 ```ruby
-class DavidMartinez < GeekStuff
+class FullStackEngineer < CodingAndHacking
   attr_reader i%[name location]
 
   def initialize
-    @name = 'David Martinez'
-    @location = 'CDMX, México'
-    @username = '@davidmrtz-dev'
-    @code = {
-      'frontend': ['React', 'Redux','JavaScript', 'Sass', 'Css', 'Material UI', 'Materialize', 'Boostrap'],
-      'backend': ['Rails', 'Ruby','NodeJS', 'Express'],
-      'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB'],
-      'devops': ['Docker', 'GitHub Actions', 'GitHub Flow', 'AWS', 'Heroku', 'Netlify'],
-      'tools': ['Git', 'GitHub', 'GitLab', 'Postman - Newman', 'bash'],
-      'misc': ['TDD', 'SCRUM', 'GNU/Linux', 'Extremme Programming', 'Agile']
+    @name = 'David Martínez García'
+    @location = 'Querétaro, México'
+    @code_skills = {
+      'frontend': w%[ReactJS, Redux, React Context],
+      'backend': w%[Ruby on Rails, NodeJS, Express, Bash],
+      'database': w%[Postgres, SQL, Mongo],
+      'devops': w%[Docker, Docker Compose, GitHub Actions and GitHub Flow, Heroku, Netlify],
+      'tools': w%[Git, GitHub, GitLab, Postman - Newman],
+      'mobile': w%[React Native]
     }
-    @architectures = {
-      ['SPA', 'MVC', 'Serverless', 'Microservices']
-    }
+    @soft_skills = w%[Remote Pair-Programming, Good communication skills, Teamwork, Mentoring, Agile methodology, Organization]
+    @architectures = w%[SPA, MVC, Serverless, Microservices]
   end
 
-  def code
-    process
-  end
-  
-  private
-  
-  def process
-    coder = Coder.create!(name: name, location: location)
-    coder.code
+  def create
+    ProgrammingService.process(self)
   end
 end
 
-coder = DavidMartinez.new.code
+coder = FullStackEngineer.new
+amazing_application = coder.create
 
 ```
 
@@ -43,20 +35,20 @@ coder = DavidMartinez.new.code
 
 I'm **David Martínez**.
 
-I am a university technologist in mechatronics, a technology enthusiast, especially interested in web development, robotics, and IoT applications.
+I am a Full Stack Engineer who is passionate about Robotics, Technology and IoT.
 <br />
-I find a special pleasure in learning and researching emerging technologies and how to help develop applications that make people's lives easier.
+I am a robotics and music-related technology projects enthusiast who always find special pleasure on learning new things and create products that helps and makes the people's lives easier.
 <br />
-I'm a life-long learner who aspires to master his skills.
+I'm a life-long learner who aspires to better each day and be able to master my current and future skills.
 
 ### About:
 
-- :rocket: Passionate about Robotics & Tech! :man_technologist:
+- :rocket: Passionate about Robotics & Technology! :man_technologist:
 - :books: Full time learner
-- :space_invader: Video games lover.
+- :space_invader: I create projects related with Technlogy, programming, music and robotics!.
 - :coffee: A bit coffe addict.
 - :writing_hand: I write blogs on [@Hackernoon](https://hackernoon.com/u/davomartinez-dev).
-- 💼 Curently working at Asymm Developers as Full Stack Developer.
+- 💼 Curently working at Asymm Developers as a SE |||.
 
 ### Technologies:
 
