@@ -45,7 +45,7 @@ I'm a life-long learner who aspires to better each day and be able to master my 
 
 - :rocket: Passionate about Robotics & Technology! :man_technologist:
 - :books: Full time learner
-- :space_invader: I create projects related with Technlogy, programming, music and robotics!.
+- :space_invader: I create projects related with Programming, Music and Robotics!
 - :coffee: A bit coffe addict.
 - :writing_hand: I write blogs on [@Hackernoon](https://hackernoon.com/u/davomartinez-dev).
 - 💼 Curently working at Asymm Developers as a SE |||.
