@@ -10,12 +10,12 @@ class FullStackEngineer < CodingAndHacking
     @name = 'David Martínez García'
     @location = 'Querétaro, México'
     @code_skills = {
-      'frontend': w%[ReactJS, Redux, React Context],
-      'backend': w%[Ruby on Rails, NodeJS, Express, Bash],
-      'database': w%[Postgres, SQL, Mongo],
-      'devops': w%[Docker, Docker Compose, GitHub Actions and GitHub Flow, Heroku, Netlify],
-      'tools': w%[Git, GitHub, GitLab, Postman - Newman],
-      'mobile': w%[React Native]
+      frontend: w%[ReactJS, Redux, React Context],
+      backend: w%[Ruby on Rails, NodeJS, Express, Bash],
+      database: w%[Postgres, SQL, Mongo],
+      devops: w%[Docker, Docker Compose, GitHub Actions and GitHub Flow, Heroku, Netlify],
+      tools: w%[Git, GitHub, GitLab, Postman - Newman],
+      mobile: w%[React Native]
     }
     @soft_skills = w%[Remote Pair-Programming, Good communication skills, Teamwork, Mentoring, Agile methodology, Organization]
     @architectures = w%[SPA, MVC, Serverless, Microservices]
