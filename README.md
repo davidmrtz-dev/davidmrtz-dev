@@ -2,34 +2,6 @@
   <img src="https://github.com/davitomix/davitomix/blob/master/assets/logo.png" alt="Logo" width="500px" height="500px">
 </p>
 
-```ruby
-class FullStackEngineer < CodingAndHacking
-  attr_reader i%[name location]
-
-  def initialize
-    @name = 'David Martínez García'
-    @location = 'Querétaro, México'
-    @code_skills = {
-      frontend: w%[ReactJS, Redux, React Context],
-      backend: w%[Ruby on Rails, NodeJS, Express, Bash],
-      database: w%[Postgres, SQL, Mongo],
-      devops: w%[Docker, Docker Compose, GitHub Actions and GitHub Flow, Heroku, Netlify],
-      tools: w%[Git, GitHub, GitLab, Postman - Newman],
-      mobile: w%[React Native]
-    }
-    @soft_skills = w%[Remote Pair-Programming, Good communication skills, Teamwork, Mentoring, Agile methodology, Organization]
-    @architectures = w%[SPA, MVC, Serverless, Microservices]
-  end
-
-  def create
-    ProgrammingService.process(self)
-  end
-end
-
-coder = FullStackEngineer.new
-amazing_application = coder.create
-```
-
 ## Hi there. :octocat:
 
 I'm **David Martínez**.
