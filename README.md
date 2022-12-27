@@ -8,9 +8,9 @@ I'm **David Martínez**.
 
 I am a Full Stack Engineer who is passionate about Robotics, Technology and IoT.
 <br />
-I am a robotics and music-related technology projects enthusiast who always find special pleasure on learning new things and create products that helps and makes the people's lives easier.
+I am a robotics and music enthusiast who always find special pleasure on learning new things and create products that helps and makes the people's lives easier.
 <br />
-I'm a life-long learner who aspires to better each day and be able to master my current and future skills.
+I'm a life-long learner who aspires to better be each day and be able to master my current and future skills.
 
 ### About:
 
