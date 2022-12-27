@@ -10,7 +10,7 @@ I am a Full Stack Engineer who is passionate about Robotics, Technology and IoT.
 <br />
 I find special pleasure on learning new things and create products that helps and makes the people's lives easier.
 <br />
-I consider myself as a lif-long learner who aspires to be better each day and master my current and future skills.
+I consider myself as a life-long learner who aspires to be better each day and master my current and future skills.
 <br />
 
 ### About:
