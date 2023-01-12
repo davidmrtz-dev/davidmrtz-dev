@@ -1,4 +1,4 @@
-<p> align="center">
+<p align="center">
   <img src="https://github.com/davitomix/davitomix/blob/master/assets/logo.png" alt="Logo" width="500px" height="500px">
 </p>
 
