@@ -39,7 +39,7 @@ I consider myself a life-long learner who aspires to be better each day and mast
 
 ### Get in touch:
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/davidmrtz-dev/)
+[<a target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/davidmrtz-dev/)
 [<img src="https://img.shields.io/badge/%20%20-email-red?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" />](mailto:davidelimg1@gmail.com)
 [<img src="https://img.shields.io/badge/%20%20-portfolio-7bada7?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://david-martinez-dev.netlify.app/)
 [<img src="https://img.shields.io/badge/%20%20-angelist-8c7bad?style=for-the-badge&logo=portfolio&logoColor=white&logoWidth=30" />](https://angel.co/u/david-martinez-74)
