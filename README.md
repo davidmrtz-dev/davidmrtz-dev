@@ -10,17 +10,18 @@ I am a Full Stack Engineer who is passionate about Robotics, Technology and IoT.
 <br />
 I find special pleasure on learning new things and create products that helps and makes the people's lives easier.
 <br />
-I consider myself a life-long learner who aspires to be better each day and master my current and future skills.
+I consider myself a life-long learner who aspires to master my current and future skills.
 <br />
 
 ### About:
 
-- :rocket: Passionate about Robotics & Technology! :man_technologist:
-- :books: Full time learner
-- :space_invader: I create projects related with Programming, Music and Robotics!
-- :coffee: A bit coffe addict.
-- :writing_hand: I write blogs on [@Hackernoon](https://hackernoon.com/u/davomartinez-dev).
-- 💼 Curently working at Asymm Developers as a SE |||.
+- 💻 Clean code and good practices enthusiast.
+- 🚀 Passionate about Robotics & Technology! :man_technologist:
+- 📚 Full time learner
+- 👾 I create projects related with Programming, Music and Robotics!
+- ☕ A bit coffe addict.
+- ✍️ I write blogs on [@Hackernoon](https://hackernoon.com/u/davomartinez-dev).
+- 💼 Curently working at Asymm Developers.
 
 ### Technologies:
 
