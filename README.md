@@ -20,7 +20,8 @@ I consider myself a life-long learner who aspires to master my current and futur
 - 📚 Full time learner
 - 👾 I create projects related with Programming, Music and Robotics!
 - ☕ A bit coffe addict.
-- ✍️ I write blogs on [@Hackernoon](https://hackernoon.com/u/davomartinez-dev).
+- ✍️ I write blogs on [@Hackernoon](https://hackernoon.com/u/davomartinez-dev) and [@Medium](https://medium.com/@davidmrtz_dev).
+- Cooming soon my own blog!
 - 💼 Curently working at Asymm Developers.
 
 ### Technologies:
