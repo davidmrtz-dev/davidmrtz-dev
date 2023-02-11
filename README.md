@@ -23,7 +23,7 @@ I consider myself a life-long learner who aspires to master my current and futur
 - ✍️ I write blogs on [@Hackernoon](https://hackernoon.com/u/davomartinez-dev) and [@Medium](https://medium.com/@davidmrtz_dev).
 - 👨‍💻 Cooming soon my own blog!
 - 📚 Proud [@Microverseinc](https://www.microverse.org/) Alumni.
-- 💼 Curently working at Asymm Developers.
+- 💼 Currently working at Asymm Developers.
 
 ### Technologies:
 
