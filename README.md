@@ -19,7 +19,7 @@ I consider myself a life-long learner who aspires to master my current and futur
 - 🚀 Passionate about Robotics & Technology! :man_technologist:
 - 📚 Full time learner
 - 👾 I create projects related with Programming, Music and Robotics!
-- ☕ A bit coffe addict.
+- ☕ A bit tea addict.
 - ✍️ I write blogs on [@Hackernoon](https://hackernoon.com/u/davomartinez-dev) and [@Medium](https://medium.com/@davidmrtz_dev).
 - 👨‍💻 Cooming soon my own blog!
 - 📚 Proud [@Microverseinc](https://www.microverse.org/) Alumni.
