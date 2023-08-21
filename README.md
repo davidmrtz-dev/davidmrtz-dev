@@ -12,7 +12,6 @@ I find special pleasure on learning new things and create products that helps an
 <br />
 I consider myself a life-long learner who aspires to master my current and future skills.
 <br />
-
 ### About:
 
 - 💻 Clean code and good practices enthusiast.
