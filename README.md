@@ -6,9 +6,9 @@
 
 I'm **David Martínez**.
 
-I am a Full Stack Engineer who is passionate about Robotics, Technology and IoT.
+I am a Full Stack Engineer passionate about Robotics, Technology, and IoT.
 <br />
-I find special pleasure on learning new things and create products that helps and makes the people's lives easier.
+I find particular pleasure in learning new things and creating products that help and make people's lives easier.
 <br />
 I consider myself a life-long learner who aspires to master my current and future skills.
 <br />
@@ -18,12 +18,10 @@ I consider myself a life-long learner who aspires to master my current and futur
 - 💻 Clean code and good practices enthusiast.
 - 🚀 Passionate about Robotics & Technology! :man_technologist:
 - 📚 Full time learner
-- 👾 I create projects related with Programming, Music and Robotics!
-- ☕ A bit tea addict.
+- ☕ A bit coffee addict.
 - ✍️ I write blogs on [@Hackernoon](https://hackernoon.com/u/davomartinez-dev) and [@Medium](https://medium.com/@davidmrtz_dev).
-- 👨‍💻 Cooming soon my own blog!
 - 📚 Proud [@Microverseinc](https://www.microverse.org/) Alumni.
-- 💼 Currently working at Asymm Developers.
+- 💼 Currently working at Rankmi.
 
 ### Technologies:
 
