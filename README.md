@@ -19,7 +19,7 @@ I consider myself a life-long learner who aspires to master my current and futur
 - 🚀 Passionate about Robotics & Technology! :man_technologist:
 - 📚 Full time learner
 - ☕ A bit coffee addict.
-- ✍️ I write blogs on [@Hackernoon](https://hackernoon.com/u/davomartinez-dev) and [@Medium](https://medium.com/@davidmrtz_dev).
+- ✍️ I write blogs on [@Dev.to](https://dev.to/davidmrtz-dev) and sometimes on [@Medium](https://medium.com/@davidmrtz_dev).
 - 📚 Proud [@Microverseinc](https://www.microverse.org/) Alumni.
 - 💼 Currently working at Rankmi.
 
