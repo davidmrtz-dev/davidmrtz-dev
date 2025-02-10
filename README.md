@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://github.com/davitomix/davitomix/blob/master/assets/header-david.jpg" alt="Logo">
+
+  
 </p>
 
 ## Hi there. :octocat:
